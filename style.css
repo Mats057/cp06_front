@@ -49,6 +49,9 @@ body .about .about_text h2 {
 body .about .about_text p {
   font-size: 24px;
 }
+body .about img {
+  max-width: 100%;
+}
 @media screen and (max-width: 768px) {
 	 body .about {
 		 flex-direction: column;
